@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ElisangelaSemedo/TODO-LIST.git/static/css/main.add9d7e6.css",
+    "main.js": "/ElisangelaSemedo/TODO-LIST.git/static/js/main.eadb4703.js",
+    "index.html": "/ElisangelaSemedo/TODO-LIST.git/index.html",
+    "main.add9d7e6.css.map": "/ElisangelaSemedo/TODO-LIST.git/static/css/main.add9d7e6.css.map",
+    "main.eadb4703.js.map": "/ElisangelaSemedo/TODO-LIST.git/static/js/main.eadb4703.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.add9d7e6.css",
+    "static/js/main.eadb4703.js"
+  ]
+}
